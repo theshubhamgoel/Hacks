@@ -172,7 +172,7 @@ public class CheckStatus {
 
     private void setUp() {
         // System.setProperty("webdriver.chrome.driver",
-        // "C:\\Users\\shubhgoe\\Downloads\\chromedriver_win32\\chromedriver.exe");
+        // "C:\\Users\\<user>\\Downloads\\chromedriver_win32\\chromedriver.exe");
 
         ChromeOptions chromeOptions = new ChromeOptions();
         //chromeOptions.addArguments("--kiosk"); // for mac
